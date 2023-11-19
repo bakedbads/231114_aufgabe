@@ -1,3 +1,9 @@
+body {
+    color: white;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
 .container {
     display: flex;
     align-items: center;
